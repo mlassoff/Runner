@@ -1,0 +1,24 @@
+table
+{
+    width: 100%;
+}
+
+  table,tr ,th, td
+        {
+            border: solid black 1px;
+        }
+        
+        table
+        {
+            border-collapse: collapse;
+        }
+        
+        .odd
+        {
+            background-color: #ccc;
+        }
+        
+        .even
+        {
+            background-color: #eee;
+        }
